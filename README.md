@@ -4,13 +4,7 @@
 
 ## Features
 
-- **Intuitive GUI**: User-friendly interface for defining criteria and entering pairwise comparisons.
+- **Intuitive GUI**: Simple interface for defining criteria and entering pairwise comparisons.
 - **Matrix Normalization**: Automatically normalizes pairwise comparison matrices.
 - **Weight Calculation**: Computes the relative importance of each criterion.
 - **Dynamic Outputs**: Displays the comparison matrix, normalized matrix, and computed weights in real-time.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/PairwiseComparator-AHP.git
